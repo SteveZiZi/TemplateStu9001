@@ -1,0 +1,74 @@
+<RCC>
+    <qresource prefix="/Stu9001">
+        <file>stu9001.qss</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/main_status.png</file>
+        <file>images/comboBox.png</file>
+        <file>images/0.png</file>
+        <file>images/elecOperator/CubicleChart.png</file>
+        <file>images/elecOperator/Fan/1.png</file>
+        <file>images/elecOperator/Fan/2.png</file>
+        <file>images/elecOperator/Fan/3.png</file>
+        <file>images/elecOperator/Fan/4.png</file>
+        <file>images/elecOperator/Fan/5.png</file>
+        <file>images/elecOperator/Fan/6.png</file>
+        <file>images/elecOperator/Lamp/on.png</file>
+        <file>images/elecOperator/Lamp/off.png</file>
+        <file>images/elecOperator/Heater/heating.png</file>
+        <file>images/elecOperator/Heater/unHeating.png</file>
+        <file>images/elecOperator/EarthingKnife/1.png</file>
+        <file>images/elecOperator/EarthingKnife/2.png</file>
+        <file>images/elecOperator/EarthingKnife/3.png</file>
+        <file>images/elecOperator/EarthingKnife/4.png</file>
+        <file>images/elecOperator/EarthingKnife/5.png</file>
+        <file>images/elecOperator/EarthingKnife/6.png</file>
+        <file>images/elecOperator/EarthingKnife/7.png</file>
+        <file>images/elecOperator/EarthingKnife/8.png</file>
+        <file>images/elecOperator/EarthingKnife/9.png</file>
+        <file>images/elecOperator/Breaker/1.png</file>
+        <file>images/elecOperator/Breaker/2.png</file>
+        <file>images/elecOperator/Breaker/3.png</file>
+        <file>images/elecOperator/Breaker/4.png</file>
+        <file>images/elecOperator/Breaker/5.png</file>
+        <file>images/elecOperator/Breaker/6.png</file>
+        <file>images/elecOperator/Breaker/7.png</file>
+        <file>images/elecOperator/Breaker/8.png</file>
+        <file>images/elecOperator/Breaker/9.png</file>
+        <file>images/elecOperator/Breaker/10.png</file>
+        <file>images/elecOperator/Breaker/11.png</file>
+        <file>images/elecOperator/Breaker/12.png</file>
+        <file>images/elecOperator/Breaker/13.png</file>
+        <file>images/elecOperator/Breaker/14.png</file>
+        <file>images/elecOperator/Breaker/15.png</file>
+        <file>images/elecOperator/Breaker/16.png</file>
+        <file>images/elecOperator/Breaker/17.png</file>
+        <file>images/elecOperator/Breaker/18.png</file>
+        <file>images/elecOperator/Breaker/19.png</file>
+        <file>images/elecOperator/Breaker/20.png</file>
+        <file>images/elecOperator/Breaker/21.png</file>
+        <file>images/elecOperator/Breaker/22.png</file>
+        <file>images/elecOperator/Breaker/23.png</file>
+        <file alias="down-button.png">images/down-button.png</file>
+        <file alias="up-button.png">images/up-button.png</file>
+    </qresource>
+    <qresource prefix="/checkbox">
+        <file alias="checked.png">images/checkbox/checked.png</file>
+        <file alias="checked_hover.png">images/checkbox/checked_hover.png</file>
+        <file alias="normal.png">images/checkbox/normal.png</file>
+        <file alias="normal_hover.png">images/checkbox/normal_hover.png</file>
+    </qresource>
+    <qresource prefix="/radio">
+        <file alias="radio_sel.png">images/radio/radio_sel.png</file>
+        <file alias="radio_unsel.png">images/radio/radio_unsel.png</file>
+    </qresource>
+    <qresource prefix="/treeview">
+        <file alias="branch_close.png">images/treeview/branch_close.png</file>
+        <file alias="branch_open.png">images/treeview/branch_open.png</file>
+    </qresource>
+    <qresource prefix="/wireTypes">
+        <file alias="three_phase_four_line_1.png">images/wireTypes/three_phase_four_line_1.png</file>
+        <file alias="three_phase_three_line.png">images/wireTypes/three_phase_three_line.png</file>
+        <file alias="three_phase_four_line_2.png">images/wireTypes/three_phase_four_line_2.png</file>
+    </qresource>
+</RCC>

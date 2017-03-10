@@ -1,0 +1,15 @@
+<settings>
+ <contactDistance offset="0.05" calibrat="35"/>
+ <separateBrakeRoute offset="0" calibrat="0"/>
+ <separateBrakeTime offset="0" calibrat="0"/>
+ <separateBrakeSpeedAvg offset="0" calibrat="0"/>
+ <separateBrakeBounceAmp offset="0" calibrat="0"/>
+ <separateBrakeAsyncCycleTime offset="0" calibrat="0"/>
+ <contactOverRoute offset="0" calibrat="0"/>
+ <closeBrakeRoute offset="0" calibrat="0"/>
+ <closeBrakeTime offset="0" calibrat="0"/>
+ <closeBrakeSpeedAvg offset="0" calibrat="0"/>
+ <closeBrakeBounceTime offset="0" calibrat="0"/>
+ <closeBrakeAsyncCycleTime offset="0" calibrat="0"/>
+ <storeTime offset="0" calibrat="0"/>
+</settings>

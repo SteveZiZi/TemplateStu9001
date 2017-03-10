@@ -1,0 +1,66 @@
+<settings>
+ <current>
+  <harm_2 val="0"/>
+  <harm_3 val="0"/>
+  <harm_4 val="0"/>
+  <harm_5 val="0"/>
+  <harm_6 val="0"/>
+  <harm_7 val="0"/>
+  <harm_8 val="0"/>
+  <harm_9 val="0"/>
+  <harm_10 val="0"/>
+  <harm_11 val="0"/>
+  <harm_12 val="0"/>
+  <harm_13 val="0"/>
+  <harm_14 val="0"/>
+  <harm_15 val="0"/>
+  <harm_16 val="0"/>
+  <harm_17 val="0"/>
+  <harm_18 val="0"/>
+  <harm_19 val="0"/>
+  <harm_20 val="0"/>
+  <harm_21 val="0"/>
+  <harm_22 val="0"/>
+  <harm_23 val="0"/>
+  <harm_24 val="0"/>
+  <harm_25 val="0"/>
+  <harm_26 val="0"/>
+  <harm_27 val="0"/>
+  <harm_28 val="0"/>
+  <harm_29 val="0"/>
+  <harm_30 val="0"/>
+  <harm_31 val="0"/>
+ </current>
+ <voltage>
+  <harm_2 val="0"/>
+  <harm_3 val="0"/>
+  <harm_4 val="0"/>
+  <harm_5 val="0"/>
+  <harm_6 val="0"/>
+  <harm_7 val="0"/>
+  <harm_8 val="0"/>
+  <harm_9 val="0"/>
+  <harm_10 val="0"/>
+  <harm_11 val="0"/>
+  <harm_12 val="0"/>
+  <harm_13 val="0"/>
+  <harm_14 val="0"/>
+  <harm_15 val="0"/>
+  <harm_16 val="0"/>
+  <harm_17 val="0"/>
+  <harm_18 val="0"/>
+  <harm_19 val="0"/>
+  <harm_20 val="0"/>
+  <harm_21 val="0"/>
+  <harm_22 val="0"/>
+  <harm_23 val="0"/>
+  <harm_24 val="0"/>
+  <harm_25 val="0"/>
+  <harm_26 val="0"/>
+  <harm_27 val="0"/>
+  <harm_28 val="0"/>
+  <harm_29 val="0"/>
+  <harm_30 val="0"/>
+  <harm_31 val="0"/>
+ </voltage>
+</settings>

@@ -1,0 +1,57 @@
+<views>
+	<main>
+		<iamge path="/image/0.png" />
+	</main>
+	
+	<barrow>
+		<open>
+			<iamge path="/image/2.png" />
+			<instance>
+				<pos x="100", y="65" />   
+			</instance>
+			<instance>
+				<pos x="100", y="205" />   
+			</instance>
+		</open>
+		<close>
+			<iamge path="/image/1.png" />
+			<instance>
+				<pos x="120", y="45" />   
+			</instance>
+			<instance>
+				<pos x="120", y="185" />   
+			</instance>
+		</close>
+	</barrow>	
+	
+	<breaker>
+		<open>
+			<iamge path="/image/3.png" />
+			<instance>
+				<pos x="100", y="130" />   
+			</instance>
+		</open>
+		<close>
+			<iamge path="/image/4.png" />
+			<instance>
+				<pos x="120", y="130" />   
+			</instance>
+		</close>
+	</breaker>
+	
+	<earthKnife>
+		<open>
+			<iamge path="/image/3.png" />
+			<instance>
+				<pos x="12", y="339" />   
+			</instance>
+		</open>
+		<close>
+			<iamge path="/image/4.png" />
+			<instance>
+				<pos x="32", y="339" />   
+			</instance>
+		</close>
+	</earthKnife>
+	
+ </views>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <productName val="开关柜智能终端"/>
+    <productModel val="STU9001"/>
+    <productSerial val="3B07201"/>
+	
+    <lan val="ZH_CN"/>
+	
+    <CP_Machine id="2" val="CP6000"/>
+	
+	<version>
+		<APP val="1.00.000" />
+		<OS val="1.00.000" />
+		<device id="0" name="SM">
+			<software val="1.00" />
+			<hardware val="1.00" />
+		</device>
+		<device id="1" name="CP9000">
+			<software val="1.00" />
+			<hardware val="1.00" />
+		</device>
+		<device id="2" name="CP6000">
+			<software val="2.00" />
+			<hardware val="2.00" />
+		</device>
+	</version>
+	
+	<COM>
+		<device id="0" name="SM">
+			<port val="COM8:" />
+			<baud_rate val="38400" />
+			<slaveId val="1" />
+			<enable val="0" />
+		</device>
+		<device id="1" name="CP9000">
+			<port val="COM2:" />
+			<baud_rate val="9600" />
+			<slaveId val="5" />
+			<enable val="0" />
+		</device>
+		<device id="2" name="CP6000">
+			<port val="COM2:" />
+			<baud_rate val="9600" />
+			<slaveId val="1" />
+			<enable val="0" />
+		</device>
+		<device id="3" name="MC">
+			<port val="COM5:" />
+			<baud_rate val="38400" />
+			<slaveId val="4" />
+			<enable val="0" />
+		</device>
+	</COM>
+	
+	
+	<company val=""/>	
+    <address val=""/>	
+    <telephone val=""/>
+</config>
